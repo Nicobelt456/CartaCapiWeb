@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 250,
+    "width": 1500,
+    "height": 2000,
+    "isRotated": false,
+    "originalWidth": 2000,
+    "originalHeight": 2000
+  },
+  "imagePath": "image-targets/CartaCapi_luminance.jpg",
+  "metadata": null,
+  "name": "CartaCapi",
+  "resources": {
+    "originalImage": "CartaCapi_original.jpg",
+    "croppedImage": "CartaCapi_cropped.jpg",
+    "thumbnailImage": "CartaCapi_thumbnail.jpg",
+    "luminanceImage": "CartaCapi_luminance.jpg"
+  },
+  "created": 1788849575103,
+  "updated": 1788849575103
+}
