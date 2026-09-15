@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 250,
+    "width": 1500,
+    "height": 2000,
+    "isRotated": false,
+    "originalWidth": 2000,
+    "originalHeight": 2000
+  },
+  "imagePath": "image-targets/paginaCinco_luminance.jpg",
+  "metadata": null,
+  "name": "paginaCinco",
+  "resources": {
+    "originalImage": "paginaCinco_original.jpg",
+    "croppedImage": "paginaCinco_cropped.jpg",
+    "thumbnailImage": "paginaCinco_thumbnail.jpg",
+    "luminanceImage": "paginaCinco_luminance.jpg"
+  },
+  "created": 1789498365980,
+  "updated": 1789498365980
+}
